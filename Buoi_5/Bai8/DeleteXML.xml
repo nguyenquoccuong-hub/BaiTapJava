@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+        
+    <student id="001">
+                
+        <name>Nguyen Quoc Cuong</name>
+                
+        <msv>SV001</msv>
+                
+        <class>24IT7</class>
+            
+    </student>
+        
+    <student id="002">
+                
+        <name>Nguyen Quoc Khanh</name>
+                
+        <msv>SV002</msv>
+                
+        <class>24IT3</class>
+            
+    </student>
+        
+
+</students>

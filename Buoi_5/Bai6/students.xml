@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+                            
+    
+    
+    
+    
+    
+    <student>
+                                                        
+        
+        
+        
+        
+        
+        <id>24ITB025</id>
+                                                        
+        
+        
+        
+        
+        
+        <name>Nguyen Quoc Cuong</name>
+                                                        
+        
+        
+        
+        
+        
+        <age>19</age>
+                                                        
+        
+        
+        
+        
+        
+        <major>CNTT</major>
+                                                    
+    
+    
+    
+    
+    
+    </student>
+                        
+    
+    
+    
+    
+    
+    <student>
+                                                
+        
+        
+        
+        
+        <id>123</id>
+                                                
+        
+        
+        
+        
+        <name>nqc</name>
+                                                
+        
+        
+        
+        
+        <age>19</age>
+                                                
+        
+        
+        
+        
+        <major>cntt</major>
+                                            
+    
+    
+    
+    
+    </student>
+                    
+    
+    
+    
+    
+    <student>
+                                        
+        
+        
+        
+        <id>123</id>
+                                        
+        
+        
+        
+        <name>nqc</name>
+                                        
+        
+        
+        
+        <age>19</age>
+                                        
+        
+        
+        
+        <major>cntt</major>
+                                    
+    
+    
+    
+    </student>
+                
+    
+    
+    
+    <student>
+                                
+        
+        
+        <id>123</id>
+                                
+        
+        
+        <name>nqc</name>
+                                
+        
+        
+        <age>19</age>
+                                
+        
+        
+        <major>cntt</major>
+                            
+    
+    
+    </student>
+            
+    
+    
+    <student>
+                        
+        
+        <id>12</id>
+                        
+        
+        <name>nqc</name>
+                        
+        
+        <age>19</age>
+                        
+        
+        <major>cntt</major>
+                    
+    
+    </student>
+        
+    
+    <student>
+                
+        <id>24ITB025</id>
+                
+        <name>Nguyen Quoc Cuong</name>
+                
+        <age>19</age>
+                
+        <major>CNTT</major>
+            
+    </student>
+    
+    <student>
+        <id>000</id>
+        <name>cho</name>
+        <age>2000</age>
+        <major>haa</major>
+    </student>
+</students>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <book id="005">
+        <title>cuong dep trai</title>
+        <author>nguyen quoc cuong</author>
+        <year>2025</year>
+        <publisher>kim đồng</publisher>
+        <pages>haha</pages>
+        <genre>456</genre>
+        <price>100000000</price>
+    </book>
+    <book id="005">
+        <title>cuong dep trai</title>
+        <author>nguyen quoc cuong</author>
+        <year>2025</year>
+        <publisher>kim đồng</publisher>
+        <pages>haha</pages>
+        <genre>456</genre>
+        <price>100000000</price>
+    </book>
+</books>
